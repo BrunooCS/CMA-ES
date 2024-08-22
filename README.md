@@ -2,7 +2,7 @@
 
 This repository implements the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) for optimizing a policy network in OpenAI Gym environments, specifically targeting the `MountainCarContinuous-v0` enviroment.
 
-<video src="videos/test_policy-episode-0.mp" width="600" height="400" controls></video>
+![](videos/test_policy-episode-0.gif)
 
 ## Overview
 
